@@ -17,7 +17,7 @@
         <java.version>17</java.version>
         <flyway.url>jdbc:postgresql://localhost:5432/database</flyway.url>
         <flyway.user>root</flyway.user>
-        <flyway.password>root</flyway.password>
+        <flyway.password>postgres</flyway.password>
     </properties>
     <dependencies>
         <dependency>

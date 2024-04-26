@@ -1,4 +1,4 @@
-CREATE TABLE "test"
+CREATE TABLE test
 (
     id   bigserial,
     name varchar(40),
